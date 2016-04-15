@@ -1,3 +1,5 @@
+![img](img/DSC01872-01.jpeg)
+
 # XCSoarAlps
 A beautiful XCSoar configuration for flying in the Alps.
 
@@ -5,6 +7,7 @@ All airspace and waypoint data is CC [BY-NC-SA](http://creativecommons.org/licen
 
 Airport waypoints and airspaces are from [OpenAIP](http://www.openaip.net) and cleaned up to avoid redundant definitions.
 
+![img](img/IMG_20160415_145311.jpg)
 
 HOW TO USE THIS
 ---------------
