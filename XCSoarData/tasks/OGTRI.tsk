@@ -1,0 +1,56 @@
+<Task fai_finish="0" finish_min_height_ref="AGL" finish_min_height="0" start_max_height_ref="AGL" start_max_height="0" start_max_speed="0" start_requires_arm="0" aat_min_time="10800" type="RT">
+	<Point type="Start">
+		<Waypoint altitude="579" comment="Flugplatz" id="19" name="Innsbruck">
+			<Location latitude="47.2603" longitude="11.3439"/>
+		</Waypoint>
+		<ObservationZone radius="1000" type="Cylinder"/>
+	</Point>
+	<Point type="Turn">
+		<Waypoint altitude="2659" comment="Gipfel" id="2280" name="Hohe Munde">
+			<Location latitude="47.3478" longitude="11.07"/>
+		</Waypoint>
+		<ObservationZone radius="500" type="Cylinder"/>
+	</Point>
+	<Point type="Turn">
+		<Waypoint altitude="2372" comment="Gipfel" id="4681" name="Tschirgant">
+			<Location latitude="47.2392" longitude="10.8"/>
+		</Waypoint>
+		<ObservationZone radius="500" type="Cylinder"/>
+	</Point>
+	<Point type="Turn">
+		<Waypoint altitude="3035" comment="Gipfel" id="2146" name="Hexen-Kogel">
+			<Location latitude="47.0222" longitude="10.4711"/>
+		</Waypoint>
+		<ObservationZone radius="500" type="Cylinder"/>
+	</Point>
+	<Point type="Turn">
+		<Waypoint altitude="2809" comment="Sb-Gipfelsta" id="4708" name="Valluga">
+			<Location latitude="47.1578" longitude="10.2139"/>
+		</Waypoint>
+		<ObservationZone radius="500" type="Cylinder"/>
+	</Point>
+	<Point type="Turn">
+		<Waypoint altitude="2343" comment="Gipfel" id="4617" name="Thaneller">
+			<Location latitude="47.4267" longitude="10.7228"/>
+		</Waypoint>
+		<ObservationZone radius="500" type="Cylinder"/>
+	</Point>
+	<Point type="Turn">
+		<Waypoint altitude="2874" comment="Gipfel" id="4329" name="Schneeferner-Kopf">
+			<Location latitude="47.41" longitude="10.9694"/>
+		</Waypoint>
+		<ObservationZone radius="500" type="Cylinder"/>
+	</Point>
+	<Point type="Turn">
+		<Waypoint altitude="2373" comment="Gipfel" id="4068" name="Reither Spitze">
+			<Location latitude="47.3233" longitude="11.2317"/>
+		</Waypoint>
+		<ObservationZone radius="500" type="Cylinder"/>
+	</Point>
+	<Point type="Finish">
+		<Waypoint altitude="579" comment="Flugplatz" id="19" name="Innsbruck">
+			<Location latitude="47.2603" longitude="11.3439"/>
+		</Waypoint>
+		<ObservationZone radius="1000" type="Cylinder"/>
+	</Point>
+</Task>
