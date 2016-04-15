@@ -1,5 +1,5 @@
 # XCSoarAlps
-A beautiful XCSoar (v7) configuration for flying in the Alps.
+A beautiful XCSoar configuration for flying in the Alps.
 
 All airspace and waypoint data is CC [BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/3.0/) licensed.
 
@@ -8,7 +8,9 @@ Airport waypoints and airspaces are from [OpenAIP](http://www.openaip.net) and c
 
 HOW TO USE THIS
 ---------------
-Download and copy the entire XCSoarData folder to the internal storage of your Android device (typically /storage/emulated/0/). Then start up XCSoar and configure pilot name, home airport, and your plane.
+- Install XCSoar on your Android device (v7, xcsoar-testing as of April 2016).
+- Download and copy the entire XCSoarData folder to the internal storage of your Android device (typically /storage/emulated/0/).
+- Then start up XCSoar and configure pilot name, home airport, and your plane.
 
 
 DISCLAIMER
