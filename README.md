@@ -1,5 +1,3 @@
-![img](img/DSC01872-01.jpeg)
-
 # XCSoarAlps
 A beautiful XCSoar configuration for flying in the Alps.
 
@@ -19,3 +17,5 @@ HOW TO USE THIS
 DISCLAIMER
 ----------
 All this date may have errors in them. Do not relay on it without double-checking its accuracy. The author does not warrant any correctness nor usefulness of this data and configuration.
+
+![img](img/DSC01872-01.jpeg)
