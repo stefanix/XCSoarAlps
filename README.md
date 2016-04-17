@@ -16,6 +16,6 @@ HOW TO USE THIS
 
 DISCLAIMER
 ----------
-All this date may have errors in them. Do not relay on it without double-checking its accuracy. The author does not warrant any correctness nor usefulness of this data and configuration.
+These data and configuration files may have errors in them. Do not relay on them without double-checking their accuracy. The author does not warrant any correctness nor usefulness of this project.
 
 ![img](img/DSC01872-01.jpeg)
