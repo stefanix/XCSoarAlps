@@ -9,9 +9,9 @@ Airport waypoints and airspaces are from [OpenAIP](http://www.openaip.net) and c
 
 HOW TO USE THIS
 ---------------
-- Install XCSoar on your Android device (v7, xcsoar-testing as of March 2018).
-- [Download](https://github.com/stefanix/XCSoarAlps/archive/master.zip) and copy the contained XCSoarData folder to the internal storage of your Android device (typically /storage/emulated/0/). Replace any already existing XCSoarData folders. Make sure XCSoar is not running during this copy process.
-- Then start up XCSoar and configure pilot name, home airport, and your plane.
+- Install **XCSoar-testing** (v7) on your Android device.
+- [Download](https://github.com/stefanix/XCSoarAlps/archive/master.zip) and copy the contained **XCSoarData** folder to the internal storage of your Android device (typically /storage/emulated/0/). Replace any already existing XCSoarData folders. Make sure XCSoar is not running during this copy process.
+- Then start up XCSoar and **configure pilot name**, home airport, and your plane.
 
 
 DISCLAIMER
