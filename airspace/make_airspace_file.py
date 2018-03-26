@@ -3,6 +3,7 @@
 # 2) run this script
 # 3) copy airspace_openaip_alps.txt to your XCSoarData folder
 #    (may want to rename it if not alps)
+# PREREQUISITES:  python2.7,  php7.1-cli, php7.1-xml
 
 import os
 
